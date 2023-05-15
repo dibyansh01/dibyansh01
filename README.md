@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## **About Me:**
 - 📚 Currently, I'm focusing on expanding my knowledge of Python, familiarizing myself with its diiferent modules, data structures, and algorithms. I'm eager to sharpen my problem-solving skills and embrace best practices to write clean and efficient code.
 
-- 💡 As I progress, My goal is to become proficient with Python libraries and frameworks, such as Django, Flask, and NumPy, to develop robust web applications and delve into data analysis and scientific computing. I am also passioante about Web Development, so I'll be focusing on that as my next learning objective.
+- 💡 As I progress, My goal is to become proficient with Python libraries and frameworks, such as Django, NumPy, and Pandas to develop robust web applications and delve into data analysis and scientific computing. I am also passioante about Web Development, so I'll be focusing on that as my next learning objective.
 
 - 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the world of Python development! 🚀
 - ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with Python.**
