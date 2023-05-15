@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💡 As I progress, My goal is to become proficient with Python libraries and frameworks, such as Django, Flask, and NumPy, to develop robust web applications and delve into data analysis and scientific computing. I am also passioante about Web Development, so I'll be focusing on that as my next learning objective.
 
 - 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the world of Python development! 🚀
-- ⚡ Fun fact **I am a Mechanical Engineer Graduate who fall in love with Python.**
+- ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with Python.**
 - 💬 Ask me about **Python, Web Scraping, APIs, Flask**
 - 📫 Reach out to me at **dibyansh01iitk@gmail.com** 
 
