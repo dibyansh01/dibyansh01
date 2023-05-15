@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the world of Python development! 🚀
 - ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with Python.**
-- 💬 Ask me about **Python, Web Scraping, APIs, Flask**
+- 💬 Ask me about **Python, Web Scraping, APIs, Flask, Mechanical Engineering**
 - 📫 Reach out to me at **dibyansh01iitk@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
