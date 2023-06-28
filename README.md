@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
-- 📚 Currently, I'm focusing on expanding my knowledge of Python, familiarizing myself with its diiferent modules, data structures, and algorithms. I'm eager to sharpen my problem-solving skills and embrace best practices to write clean and efficient code.
+-📚 Currently, I'm concentrating on broadening my knowledge of MERN stack and data structures & algorithms in addition to Python and its various modules. I'm excited to hone my problem-solving abilities and adopt best practices in order to write clear and effective code. 
 
-- 💡 As I progress, My goal is to become proficient with Python libraries related to **ML/AI** and **Flask/Django** framework to delve into data analysis, scientific computing and develop robust web applications. I am also passioante about Web Development, so I'll be focusing on that as my next learning objective.
-
-- 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the world of Python development! 🚀
-- ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with Python.**
-- 💬 Ask me about **Python, Web Scraping, APIs, Flask, Mechanical Engineering**
+- 💡 As I progress, My goal is to become proficient with backend development skills with frameworks like Flask and Node.js so that I can delve into the development of robust web applications. I am also passionate about **ML/AI**, So I'll be focusing on that as my next learning objective.
+- 
+- 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the tech world ! 🚀
+- ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with programming and develpment**
+- 💬 Ask me about **Python, JavaScript, Web Scraping, APIs, Flask, Node.js,  Mechanical Engineering**
 - 📫 Reach out to me at **dibyansh01iitk@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
