@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Dibyanshu Pandey</h1> 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate learner diving into the world of Python development 🐍.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate learner diving into the world of Software development 🐍.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyansh01&label=Profile%20views&color=0e75b6&style=flat" alt="dibyansh01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dibyansh255" target="blank"><img src="https://img.shields.io/twitter/follow/dibyansh255?logo=twitter&style=for-the-badge" alt="dibyansh255" /></a> </p>
