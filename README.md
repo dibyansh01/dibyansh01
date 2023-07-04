@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💡 As I progress, My goal is to become proficient with backend development skills with frameworks like Node.js and Flask so that I can delve into the development of robust web applications. I am also passionate about **ML/AI**, So I'll be focusing on that as my next learning objective.
 
 - 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the tech world ! 🚀
-- ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with programming and develpment**
+- ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with programming and development**
 - 💬 Ask me about **Python, JavaScript, Web Scraping, APIs, Flask, Node.js,  Mechanical Engineering**
 - 📫 Reach out to me at **dibyansh01iitk@gmail.com** 
 
