@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the tech world ! 🚀
 - ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with programming and development**
-- 💬 Ask me about **Python, JavaScript, Web Scraping, APIs, Flask, Node.js,  Mechanical Engineering**
+- 💬 Ask me about **Python, JavaScript, TypeScript,Node.js, ExpressJS, Flask, ReactJS, Web Scraping, APIs,  Mechanical Engineering**
 - 📫 Reach out to me at **dibyansh01iitk@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
