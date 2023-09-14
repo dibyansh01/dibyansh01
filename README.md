@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Dibyanshu Pandey</h1> 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate learner diving into the world of Software development 👨‍💻.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyansh01&label=Profile%20views&color=0e75b6&style=flat" alt="dibyansh01" /> </p>
