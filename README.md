@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## **About Me:**
 - 📚 Currently, I'm concentrating on broadening my knowledge of MERN stack and data structures & algorithms in addition to Python and its various modules. I'm excited to hone my problem-solving abilities and adopt best practices in order to write clear and effective code. 
 
-- 💡 As I progress, My goal is to become proficient with backend development skills with frameworks like Node.js and Flask so that I can delve into the development of robust web applications. I am also passionate about **ML/AI**, So I'll be focusing on that as my next learning objective.
+- 💡 As I advance, my goal is to achieve proficiency in full-stack development, leveraging technologies such as Node.js, Flask, ExpressJS, ReactJS, NextJS, Tailwind, and Mui. My aim is to apply these skills to craft robust web applications. Additionally, fueled by a strong passion for ML/AI, I plan to prioritize these areas as my next learning objectives.
 
 - 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the tech world ! 🚀
 - ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with programming and development**
