@@ -1,35 +1,5 @@
 
 
-<!--
-**dibyansh01/dibyansh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/> I'm Dibyanshu Pandey</h1> 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate learner diving into the world of Software development 👨‍💻.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyansh01&label=Profile%20views&color=0e75b6&style=flat" alt="dibyansh01" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dibyansh255" target="blank"><img src="https://img.shields.io/twitter/follow/dibyansh255?logo=twitter&style=for-the-badge" alt="dibyansh255" /></a> </p>
-
-
-## **About Me:**
-- 📚 Currently, I'm concentrating on broadening my knowledge of MERN stack and data structures & algorithms in addition to Python and its various modules. I'm excited to hone my problem-solving abilities and adopt best practices in order to write clear and effective code. 
-
-- 💡 As I advance, my goal is to achieve proficiency in full-stack development, leveraging technologies such as Node.js, Flask, ExpressJS, ReactJS, NextJS, Tailwind CSS, and Mui. My aim is to apply these skills to craft robust web applications. Additionally, fueled by a strong passion for ML/AI, I plan to prioritize these areas as my next learning objectives.
-
-- 📫 Feel free to reach out to me with any questions, suggestions, or collaboration opportunities. Let's learn and grow together in the tech world ! 🚀
-- ⚡ Fun fact **I am a Mechanical Engineering Graduate who fall in love with programming and development**
-- 💬 Ask me about **Python, JavaScript, TypeScript,Node.js, ExpressJS, Flask, ReactJS, Web Scraping, APIs,  Mechanical Engineering**
 - 📫 Reach out to me at **dibyansh01iitk@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
